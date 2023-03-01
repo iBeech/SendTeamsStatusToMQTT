@@ -1,0 +1,6 @@
+{
+  "MqttServer": "homeassistant.local",
+  "MqttUsername": "",
+  "MqttPassword": "",
+  "MqttTopic": "toms_office"
+}
